@@ -1,2 +1,2 @@
-# Teknik-Pemrograman-Praktik
-Repos untuk menyimpan file-file yang berkenaan dengan teknik pemrograman praktik
+19/02/2026 
+Untuk jawaban week 2, ada di file week2 soal 1, file jar, dan id/polban/ac...
